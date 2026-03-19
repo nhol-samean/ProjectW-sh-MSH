@@ -1,2 +1,0 @@
-# ProjectShop-CSS
-ProjectShop Description
